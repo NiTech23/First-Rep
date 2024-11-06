@@ -1,2 +1,87 @@
-Hi! name is Nithin
-This is a sample text
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style1.css"> 
+    <title>Document</title>
+</head>
+<body>
+    
+    <header>
+        <div class="header-title">
+            <h1>News Paper</h1>
+        </div>
+    </header>
+    <div class="container">
+        <naV>
+            <h2>Departments</h2>
+            <ul>
+                <li>Sports</li>
+                <li>Politics</li>
+                <li>Entertainment</li>
+                <li>Science</li>
+                <li>Compitative</li>
+            </ul>
+        </naV>
+        <main>
+            <section>
+                <h2>Department Details</h2>
+                <div class="grid">
+                    <article>
+                        <h3>Sports</h3>
+                        <p>India lose the final world cup match this year</p>
+                    </article>
+                    <article>
+                        <h3>politics</h3>
+                        <p>Who will become the next prime minister!!!</p>
+                    </article>
+                    <article>
+                        <h3>Entertainment</h3>
+                        <p>upcoming pan-india movie which gonna rule the Entertaiment world</p>
+                    </article>
+                    <article>
+                        <h3>politics</h3>
+                        <p>Who will become the next prime minister!!!</p>
+                    </article>
+                    <article>   
+                        <h3>Sports</h3>
+                        <p>India lose the final world cup match this year</p>
+                    </article>
+                    
+                    <article>
+                        <h3>Compitative</h3>
+                        <p>Upcoming Compitative Exams of this octobar</p>
+                    </article>
+                    
+                    <article>
+                        <h3>Compitative</h3>
+                        <p>Upcoming Compitative Exams of this octobar</p>
+                    </article>
+                    <article>
+                        <h3>Sports</h3>
+                        <p>India lose the final world cup match this year</p>
+                    </article>
+                    <article>
+                        <h3>Entertainment</h3>
+                        <p>upcoming pan-india movie which gonna rule the Entertaiment world</p>
+                    </article>
+                    <article>
+                        <h3>politics</h3>
+                        <p>Who will become the next prime minister!!!</p>
+                    </article>
+                    <article>
+                        <h3>Entertainment</h3>
+                        <p>upcoming pan-india movie which gonna rule the Entertaiment world</p>
+                    </article>
+                    <article>
+                        <h3>Compitative</h3>
+                        <p>Upcoming Compitative Exams of this octobar</p>
+                    </article>
+                </div>
+            </section>
+        </main>
+    </div>
+
+</body>
+</html>
