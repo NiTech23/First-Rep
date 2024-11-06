@@ -1,2 +1,2 @@
 # First-Rep
-GitHub introduction - Peer learning
+## GitHub introduction - Peer learning
