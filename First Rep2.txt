@@ -1,0 +1,8 @@
+Hi! name is Nithin
+This is a sample text
+ git config --global user.name "NiTech23"
+ git config --global user.email "2023becs@mite.ac.in"
+ git status
+
+https://github.com/NiTech23/First-Rep.git
+hello world
